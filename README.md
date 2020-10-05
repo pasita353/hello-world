@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+I'm a graphic designer from Peru and I'm learning web design and about Github.
+
+:)
