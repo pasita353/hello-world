@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+I'm a Peruvian graphic designer, I like web design.
+
+:)
+
